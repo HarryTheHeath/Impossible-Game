@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Roof
+  - Spike
   layers:
   - Default
   - TransparentFX
