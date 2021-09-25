@@ -123,6 +123,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &887791 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+  m_PrefabInstance: {fileID: 102349403}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &32129420
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -467,7 +472,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_RootOrder
-      value: 50
+      value: 49
       objectReference: {fileID: 0}
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_LocalScale.x
@@ -586,6 +591,10 @@ PrefabInstance:
     - target: {fileID: 8664088308185033357, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_Name
       value: Special kill wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088308185033359, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
@@ -1877,6 +1886,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Special kill wall
       objectReference: {fileID: 0}
+    - target: {fileID: 8664088308185033359, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
 --- !u!1001 &1112762946
@@ -3050,11 +3063,11 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 887791}
     m_Modifications:
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_RootOrder
-      value: 49
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_LocalScale.x
@@ -3062,15 +3075,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.3
+      value: 0.92
       objectReference: {fileID: 0}
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 180
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -25.75
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3107,6 +3120,10 @@ PrefabInstance:
     - target: {fileID: 8664088308185033357, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
       propertyPath: m_Name
       value: Special kill wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088308185033359, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
