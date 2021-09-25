@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1458460030391212070
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.6666666
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 38.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -9.166667
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088307913984519, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8664088308185033357, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
+      propertyPath: m_Name
+      value: Jump Ground 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf4416f7da8a79f45890205f376e5c0f, type: 3}
