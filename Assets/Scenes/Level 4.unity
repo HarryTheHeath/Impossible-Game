@@ -368,5 +368,27 @@ PrefabInstance:
       propertyPath: m_Name
       value: Restart Level 4
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8449669313195416893, guid: c217f450e7796fa4a9fc9469296c317a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: c217f450e7796fa4a9fc9469296c317a, type: 3}
+--- !u!1 &1955477632 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8334198040920617042, guid: c217f450e7796fa4a9fc9469296c317a, type: 3}
+  m_PrefabInstance: {fileID: 1955477631}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1955477633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1955477632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 67d0bd661753e7b4bbbb8e0b66db81e2, type: 2}
