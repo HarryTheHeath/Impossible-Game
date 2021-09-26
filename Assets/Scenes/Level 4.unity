@@ -973,7 +973,7 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"LoseMessage","value":{"$content":"No,
       Not Cubert!!","$type":"System.String"},"$version":"A"},{"name":"UILoseMessage","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 770867046}
 --- !u!65 &400159447
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1277,6 +1277,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 528408537}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &770867046 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6844276404722446981, guid: c217f450e7796fa4a9fc9469296c317a, type: 3}
+  m_PrefabInstance: {fileID: 1955477631}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &785845949 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3569629421596557888, guid: 57b21a7ee7baf81428a407271a6f0936, type: 3}
@@ -1394,7 +1399,7 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"LoseMessage","value":{"$content":"No,
       Not Cubert!!","$type":"System.String"},"$version":"A"},{"name":"UILoseMessage","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 770867046}
 --- !u!1 &802712131
 GameObject:
   m_ObjectHideFlags: 0
@@ -1656,11 +1661,11 @@ PrefabInstance:
     - target: {fileID: 3029313842278935710, guid: 81540d6e400368643a76916c8e94038f, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     - target: {fileID: 3029313842516622035, guid: 81540d6e400368643a76916c8e94038f, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     - target: {fileID: 3029313842983955177, guid: 81540d6e400368643a76916c8e94038f, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
@@ -1668,7 +1673,7 @@ PrefabInstance:
     - target: {fileID: 3029313842983955178, guid: 81540d6e400368643a76916c8e94038f, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     - target: {fileID: 3029313842983955183, guid: 81540d6e400368643a76916c8e94038f, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.9
@@ -1680,7 +1685,7 @@ PrefabInstance:
     - target: {fileID: 3029313843448384957, guid: 81540d6e400368643a76916c8e94038f, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     m_RemovedComponents:
     - {fileID: 3029313843448384953, guid: 81540d6e400368643a76916c8e94038f, type: 3}
     - {fileID: 3029313842516622032, guid: 81540d6e400368643a76916c8e94038f, type: 3}
@@ -2313,7 +2318,7 @@ PrefabInstance:
     - target: {fileID: 8407727253999469502, guid: 0fe207871cd0bbe4fab6cb3f1f6428c0, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     - target: {fileID: 8407727254267519007, guid: 0fe207871cd0bbe4fab6cb3f1f6428c0, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
@@ -2321,7 +2326,7 @@ PrefabInstance:
     - target: {fileID: 8407727254267519203, guid: 0fe207871cd0bbe4fab6cb3f1f6428c0, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     - target: {fileID: 8407727254504500213, guid: 0fe207871cd0bbe4fab6cb3f1f6428c0, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.9
@@ -2827,7 +2832,7 @@ PrefabInstance:
     - target: {fileID: 3528384407087246633, guid: d2f66efb2f1eb7642b4238d61354678b, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     - target: {fileID: 3528384407087246637, guid: d2f66efb2f1eb7642b4238d61354678b, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -3189,7 +3194,7 @@ PrefabInstance:
     - target: {fileID: 3528384407087246633, guid: d2f66efb2f1eb7642b4238d61354678b, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 770867046}
     - target: {fileID: 3528384407087246637, guid: d2f66efb2f1eb7642b4238d61354678b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3699,7 +3704,7 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"LoseMessage","value":{"$content":"No,
       Not Cubert!!","$type":"System.String"},"$version":"A"},{"name":"UILoseMessage","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 770867046}
 --- !u!114 &1844256498220738323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4137,7 +4142,7 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"LoseMessage","value":{"$content":"No,
       Not Cubert!!","$type":"System.String"},"$version":"A"},{"name":"UILoseMessage","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 770867046}
 --- !u!114 &1844256499402895433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4659,7 +4664,7 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"LoseMessage","value":{"$content":"No,
       Not Cubert!!","$type":"System.String"},"$version":"A"},{"name":"UILoseMessage","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 770867046}
 --- !u!65 &4680109879051676545
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4806,7 +4811,7 @@ MonoBehaviour:
     _json: '{"declarations":{"collection":{"$content":[{"name":"LoseMessage","value":{"$content":"No,
       Not Cubert!!","$type":"System.String"},"$version":"A"},{"name":"UILoseMessage","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 770867046}
 --- !u!114 &5239405320291229157
 MonoBehaviour:
   m_ObjectHideFlags: 0
